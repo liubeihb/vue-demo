@@ -1,3 +1,9 @@
+
+## 
+```
+来源: http://www.open-open.com/lib/view/open1476240930270.html
+```
+
 ## 1.安装开发环境
 #### vs code https://code.visualstudio.com 
 ```
@@ -112,4 +118,5 @@ npm run dev
 
 npm update -g
 ```
+
 
